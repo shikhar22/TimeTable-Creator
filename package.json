@@ -1,0 +1,52 @@
+{
+  "name": "timetable_generator",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ag-grid-community/client-side-row-model": "^26.0.0",
+    "@ag-grid-community/react": "^26.0.0",
+    "@ag-grid-enterprise/column-tool-panel": "^26.0.0",
+    "@ag-grid-enterprise/filter-tool-panel": "^26.0.0",
+    "@ag-grid-enterprise/menu": "^26.0.0",
+    "@ag-grid-enterprise/set-filter": "^26.0.0",
+    "@syncfusion/ej2-react-navigations": "^19.2.62",
+    "@syncfusion/ej2-react-schedule": "^19.2.60",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "ag-grid-community": "^26.0.0",
+    "ag-grid-enterprise": "^26.0.1",
+    "ag-grid-react": "^26.0.0",
+    "daypilot-pro-react": "https://npm.daypilot.org/daypilot-pro-react/trial/2021.2.5000.tar.gz",
+    "dhtmlx-scheduler": "^5.3.12",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-modal": "^3.14.3",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
